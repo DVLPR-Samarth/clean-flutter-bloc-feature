@@ -1,9 +1,17 @@
 {
   "name": "clean-flutter-bloc-feature",
   "displayName": "Clean Flutter BLoC Feature Generator",
-  "description": "Generate complete Clean Architecture BLoC feature structure for Flutter",
-  "version": "1.0.0",
+  "description": "Generate complete Clean Architecture BLoC feature structure for Flutter - Created by Samarth",
+  "version": "1.0.1",
   "publisher": "samarth",
+  "author": {
+    "name": "Samarth",
+    "url": "https://github.com/DVLPR-Samarth"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DVLPR-Samarth/clean-flutter-bloc-feature"
+  },
   "engines": {
     "vscode": "^1.107.0"
   },
